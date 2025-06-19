@@ -1,0 +1,8 @@
+<suite name="Student_Suite">
+  <test name="MyTest">
+    <classes>
+      <class name="com.swag.TC_001_Login_Test"/>
+      <class name="com.swag.LogoutTest"/>
+    </classes>
+  </test>
+</suite>
